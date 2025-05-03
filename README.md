@@ -47,8 +47,7 @@ I’m a full stack developer experienced in building SaaS platforms, real-time s
 ## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/nazmul-alom](https://linkedin.com/in/nazmul-alom)  
-- **Email:** [your-email@example.com]  
-- **Twitter:** [@nazmulshuvo03](https://twitter.com/nazmulshuvo03)
+- **Email:** [nazmulshuvo03@gmail.com]
 
 ---
 
